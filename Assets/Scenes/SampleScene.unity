@@ -403,8 +403,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2608ad44412c184c84d511c888e6507, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrusterForce: 1000
-  tiltAngle: 100
+  thrusterForce: 750
+  tiltAngle: 50
 --- !u!1001 &1419241477
 PrefabInstance:
   m_ObjectHideFlags: 0
