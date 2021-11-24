@@ -15,7 +15,7 @@ public class rocketMovement : MonoBehaviour
     }
     private void Update()
     {
-        float tiltAroundZ = Input.GetAxis("Horizontal") *tiltAngle;
+        float tiltAroundZ = Input.GetAxis("Horizontal") * tiltAngle;
 
         if (Input.GetKey(KeyCode.Space)){
 
